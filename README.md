@@ -106,4 +106,4 @@ It will not create one automatically.
 MIT License — free to use, modify, and distribute.
 
 🤝 Acknowledgements
-This script was initially drafted with the help of an AI assistant and refined manually through testing and adjustments.
+This script was initially drafted with the help of an AI assistant (Gemini) and refined manually through testing and adjustments.
