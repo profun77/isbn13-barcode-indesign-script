@@ -64,7 +64,7 @@ When you run the script, a small window will appear asking for the ISBN.
   ✔️ Correct: `9780306406157`  
   ❌ Incorrect: `978-0-306-40615-7`
 
-If the input is not exactly 13 digits, the script will show an error.
+If the input is not exactly 13 digits, the script will show an error. If everything is OK, the output should look like this:
 
 <img width="361" height="175" alt="image" src="https://github.com/user-attachments/assets/b9d43075-e5b0-49ef-a0b5-745d60555873" />
 
