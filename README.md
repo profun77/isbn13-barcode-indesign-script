@@ -1,5 +1,10 @@
 # ISBN‑13 / EAN‑13 Barcode Generator for Adobe InDesign
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![InDesign Script](https://img.shields.io/badge/Adobe%20InDesign-Script-blue)
+![JSX](https://img.shields.io/badge/JSX-ExtendScript-orange)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 A lightweight Adobe InDesign script that generates fully vector ISBN‑13 (EAN‑13) barcodes directly inside an open document.  
 It draws all bars as vector shapes, adds human‑readable digits, converts them to outlines, groups everything, and scales the final result.
 
