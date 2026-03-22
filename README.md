@@ -23,6 +23,9 @@ This tool is designed for users who want a quick, print‑ready barcode without 
 
 To install the script, place the `.jsx` file in your **user Scripts Panel** folder.
 
+<img width="734" height="301" alt="image" src="https://github.com/user-attachments/assets/bb021f2a-e321-4727-a2b0-a136326bdc81" />
+
+
 ### **Windows**
 C:\Users<username>\AppData\Roaming\Adobe\InDesign<version>\en_US\Scripts\Scripts Panel\
 
@@ -45,11 +48,16 @@ After copying the script there, restart InDesign if needed.
 4. In the Scripts Panel, open **Scripts Panel** (the user folder).
 5. **Double‑click** the script to run it.
 
+<img width="245" height="206" alt="image" src="https://github.com/user-attachments/assets/086fa136-b58c-4727-a385-5d0f6246d8cc" />
+
+
 ---
 
 ## 🔢 Entering the ISBN Code
 
 When you run the script, a small window will appear asking for the ISBN.
+
+<img width="511" height="146" alt="image" src="https://github.com/user-attachments/assets/bd4621b9-f9dd-431b-af04-62f258fcb8c5" />
 
 - Enter a **13‑digit ISBN**
 - **Do not** include spaces or dashes  
@@ -57,6 +65,9 @@ When you run the script, a small window will appear asking for the ISBN.
   ❌ Incorrect: `978-0-306-40615-7`
 
 If the input is not exactly 13 digits, the script will show an error.
+
+<img width="361" height="175" alt="image" src="https://github.com/user-attachments/assets/b9d43075-e5b0-49ef-a0b5-745d60555873" />
+
 
 ---
 
